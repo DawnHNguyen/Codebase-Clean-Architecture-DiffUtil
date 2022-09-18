@@ -1,4 +1,4 @@
-package com.example.codebasemvvmcleanarchdiffutil
+package com.example.codebase
 
 import org.junit.Test
 
